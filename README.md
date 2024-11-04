@@ -5,5 +5,11 @@ FitNest will be a web-based application designed to create personalized workout 
 
 ## Installation
 Clone the repository
-
+```
+https://github.com/dutyMax/FitNest.git
+```
 ## Run Program
+Run the main.py file and enter user query as input
+```
+python3 main.py
+```
